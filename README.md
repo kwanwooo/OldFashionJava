@@ -3,15 +3,15 @@ The Java is old fashion.
 
 在这里，可能不会涉及到非常新、非常酷的技术，可能只会反思Java在其发展中的一些冥冥中的一脉相承性。  
 
-* [Java随谈系列](https://github.com/kwanwooo/OldFashionJava/master/README.md#Java随谈系列)
-    * [Java随谈系列（一）](https://github.com/kwanwooo/OldFashionJava/master/README.md#Java随谈系列（一）)
-    * [Java随谈系列（二）](https://github.com/kwanwooo/OldFashionJava/master/README.md#Java随谈系列（二）)
-    * [Java随谈系列（三）](https://github.com/kwanwooo/OldFashionJava/master/README.md#Java随谈系列（三）)
-* [Java源码系列](https://github.com/kwanwooo/OldFashionJava/master/README.md#Java源码系列)
-    * [Java源码（一）](https://github.com/kwanwooo/OldFashionJava/master/README.md#Java源码系列（一）)
-    * [Java源码（二）](https://github.com/kwanwooo/OldFashionJava/master/README.md#Java源码系列（二）)
-    * [Java源码（三）](https://github.com/kwanwooo/OldFashionJava/master/README.md#Java源码系列（三）)
-* [待办事项](https://github.com/kwanwooo/OldFashionJava/master/README.md#待办事项)
+* [Java随谈系列](#Java随谈系列)
+    * [Java随谈系列（一）](#Java随谈系列（一）)
+    * [Java随谈系列（二）](#Java随谈系列（二）)
+    * [Java随谈系列（三）](#Java随谈系列（三）)
+* [Java源码系列](#Java源码系列)
+    * [Java源码（一）](#Java源码系列（一）)
+    * [Java源码（二）](#Java源码系列（二）)
+    * [Java源码（三）](#Java源码系列（三）)
+* [待办事项](#待办事项)
 
 
 # Java随谈系列
@@ -65,4 +65,6 @@ The Java is old fashion.
 - [ ] Stream 处理
 - [ ] StringBuffer类、StringBuilder类 源码分析
 
-+ 嘻嘻 diff
+```diff
++ 嘻嘻
+```

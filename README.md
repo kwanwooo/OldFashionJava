@@ -12,7 +12,7 @@ The Java is old fashion.
     * [Java源码（二）](#Java源码二)
     * [Java源码（三）](#Java源码三)
 * [待办事项](#待办事项)
-
+* [致谢](#致谢)
 
 # Java随谈系列
 
@@ -68,3 +68,8 @@ The Java is old fashion.
 ```diff
 + 嘻嘻
 ```
+## 致谢
+
+感谢您的浏览
+
+* [点击回到开头（一）](#oldfashionjava)

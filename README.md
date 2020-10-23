@@ -72,4 +72,4 @@ The Java is old fashion.
 
 感谢您的浏览
 
-* [点击回到开头（一）](#oldfashionjava)
+* [回到开头](#oldfashionjava)

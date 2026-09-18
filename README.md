@@ -65,9 +65,6 @@ The Java is old fashion.
 - [ ] Stream 处理
 - [ ] StringBuffer类、StringBuilder类 源码分析
 
-```diff
-+ 嘻嘻
-```
 ## 致谢
 
 感谢您的浏览
